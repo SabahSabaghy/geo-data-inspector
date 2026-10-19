@@ -67,7 +67,7 @@ For spatial formats, GeoPandas and/or GDAL-based libraries would be natural opti
 ```text
 geo-data-inspector/
 ├── README.md
-└── geo_data_inspector.ipynb
+└── inspect_online_csv.ipynb
 ```
 
 ## Repository name
